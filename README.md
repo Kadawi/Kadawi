@@ -1,5 +1,5 @@
 #### Hi there! 👋
-#### Here's some of my schoolwork.
+#### Some of my schoolwork lives here.
 #### Pardon the mess. 
 
 <!--
