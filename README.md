@@ -1,6 +1,7 @@
 #### Hi there! 👋
 #### Some of my schoolwork lives here.
 #### Pardon the mess. 
+#### :)
 
 <!--
 **Kadawi/Kadawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
