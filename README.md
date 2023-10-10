@@ -1,6 +1,6 @@
-#### Hi there! 👋
-#### Some of my schoolwork lives here.
-#### Pardon the mess. 
+# Hi there! 👋
+## Some of my garbage lives here.
+### Pardon the mess. 
 #### :)
 
 <!--
