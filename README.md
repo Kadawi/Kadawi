@@ -1,7 +1,6 @@
-# Hi there! 👋
 ## Some of my garbage lives here.
-### Pardon the mess. 
-#### :)
+
+##### rvrsh3ll is a big fat turd.
 
 <!--
 **Kadawi/Kadawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
